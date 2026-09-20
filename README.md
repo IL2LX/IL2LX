@@ -1,4 +1,5 @@
 # idk, hi?
+<img src="https://files.catbox.moe/zy32lv.png" width="550">
 
 - What code lang i know ?
 > C#, C++/C (Still learning)
